@@ -2,4 +2,4 @@
 
 ✅ Add tasks via a form.
 ✅ View tasks from a text file.
-✅ Delete tasks dynamically.
+✅ Delete tasks dynamically. 
