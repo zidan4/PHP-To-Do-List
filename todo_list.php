@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html l>
+<html la>
 <head>
     <title>To-Do List</title>
 </head>
